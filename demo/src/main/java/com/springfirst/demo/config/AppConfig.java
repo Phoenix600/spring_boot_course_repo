@@ -34,6 +34,7 @@ public class AppConfig {
     {
         return new Traveler(bike());
     }
+<<<<<<< HEAD
 
 
     @Bean
@@ -41,4 +42,6 @@ public class AppConfig {
 
 
 
+=======
+>>>>>>> c64cf53f15b72b59b6edb6b80824a5c8641e3ed9
 }
