@@ -3,9 +3,8 @@ package com.springfirst.demo.bean;
 import org.springframework.stereotype.Component;
 
 
-public class Student implements Person{
-    @Override
+public class Teacher implements Person{
     public void intro(){
-        System.out.println("Hey, Im student...");
+        System.out.println("Im Teacher");
     }
 }
